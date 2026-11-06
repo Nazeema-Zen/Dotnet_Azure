@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/NullableTypes/bin/Debug/net10.0/NullableTypes
+/workspaces/Dotnet_Azure/NullableTypes/bin/Debug/net10.0/NullableTypes.deps.json
+/workspaces/Dotnet_Azure/NullableTypes/bin/Debug/net10.0/NullableTypes.runtimeconfig.json
+/workspaces/Dotnet_Azure/NullableTypes/bin/Debug/net10.0/NullableTypes.dll
+/workspaces/Dotnet_Azure/NullableTypes/bin/Debug/net10.0/NullableTypes.pdb
+/workspaces/Dotnet_Azure/NullableTypes/obj/Debug/net10.0/NullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/NullableTypes/obj/Debug/net10.0/NullableTypes.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/NullableTypes/obj/Debug/net10.0/NullableTypes.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/NullableTypes/obj/Debug/net10.0/NullableTypes.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/NullableTypes/obj/Debug/net10.0/NullableTypes.sourcelink.json
+/workspaces/Dotnet_Azure/NullableTypes/obj/Debug/net10.0/NullableTypes.dll
+/workspaces/Dotnet_Azure/NullableTypes/obj/Debug/net10.0/refint/NullableTypes.dll
+/workspaces/Dotnet_Azure/NullableTypes/obj/Debug/net10.0/NullableTypes.pdb
+/workspaces/Dotnet_Azure/NullableTypes/obj/Debug/net10.0/NullableTypes.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/NullableTypes/obj/Debug/net10.0/ref/NullableTypes.dll

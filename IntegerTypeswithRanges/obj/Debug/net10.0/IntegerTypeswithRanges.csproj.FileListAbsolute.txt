@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/IntegerTypeswithRanges/bin/Debug/net10.0/IntegerTypeswithRanges
+/workspaces/Dotnet_Azure/IntegerTypeswithRanges/bin/Debug/net10.0/IntegerTypeswithRanges.deps.json
+/workspaces/Dotnet_Azure/IntegerTypeswithRanges/bin/Debug/net10.0/IntegerTypeswithRanges.runtimeconfig.json
+/workspaces/Dotnet_Azure/IntegerTypeswithRanges/bin/Debug/net10.0/IntegerTypeswithRanges.dll
+/workspaces/Dotnet_Azure/IntegerTypeswithRanges/bin/Debug/net10.0/IntegerTypeswithRanges.pdb
+/workspaces/Dotnet_Azure/IntegerTypeswithRanges/obj/Debug/net10.0/IntegerTypeswithRanges.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/IntegerTypeswithRanges/obj/Debug/net10.0/IntegerTypeswithRanges.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/IntegerTypeswithRanges/obj/Debug/net10.0/IntegerTypeswithRanges.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/IntegerTypeswithRanges/obj/Debug/net10.0/IntegerTypeswithRanges.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/IntegerTypeswithRanges/obj/Debug/net10.0/IntegerTypeswithRanges.sourcelink.json
+/workspaces/Dotnet_Azure/IntegerTypeswithRanges/obj/Debug/net10.0/IntegerTypeswithRanges.dll
+/workspaces/Dotnet_Azure/IntegerTypeswithRanges/obj/Debug/net10.0/refint/IntegerTypeswithRanges.dll
+/workspaces/Dotnet_Azure/IntegerTypeswithRanges/obj/Debug/net10.0/IntegerTypeswithRanges.pdb
+/workspaces/Dotnet_Azure/IntegerTypeswithRanges/obj/Debug/net10.0/IntegerTypeswithRanges.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/IntegerTypeswithRanges/obj/Debug/net10.0/ref/IntegerTypeswithRanges.dll

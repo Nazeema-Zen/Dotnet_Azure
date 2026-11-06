@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/helloworld/bin/Debug/net10.0/helloworld
+/workspaces/Dotnet_Azure/helloworld/bin/Debug/net10.0/helloworld.deps.json
+/workspaces/Dotnet_Azure/helloworld/bin/Debug/net10.0/helloworld.runtimeconfig.json
+/workspaces/Dotnet_Azure/helloworld/bin/Debug/net10.0/helloworld.dll
+/workspaces/Dotnet_Azure/helloworld/bin/Debug/net10.0/helloworld.pdb
+/workspaces/Dotnet_Azure/helloworld/obj/Debug/net10.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/helloworld/obj/Debug/net10.0/helloworld.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/helloworld/obj/Debug/net10.0/helloworld.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/helloworld/obj/Debug/net10.0/helloworld.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/helloworld/obj/Debug/net10.0/helloworld.sourcelink.json
+/workspaces/Dotnet_Azure/helloworld/obj/Debug/net10.0/helloworld.dll
+/workspaces/Dotnet_Azure/helloworld/obj/Debug/net10.0/refint/helloworld.dll
+/workspaces/Dotnet_Azure/helloworld/obj/Debug/net10.0/helloworld.pdb
+/workspaces/Dotnet_Azure/helloworld/obj/Debug/net10.0/helloworld.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/helloworld/obj/Debug/net10.0/ref/helloworld.dll

@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/Addition/bin/Debug/net10.0/Addition
+/workspaces/Dotnet_Azure/Addition/bin/Debug/net10.0/Addition.deps.json
+/workspaces/Dotnet_Azure/Addition/bin/Debug/net10.0/Addition.runtimeconfig.json
+/workspaces/Dotnet_Azure/Addition/bin/Debug/net10.0/Addition.dll
+/workspaces/Dotnet_Azure/Addition/bin/Debug/net10.0/Addition.pdb
+/workspaces/Dotnet_Azure/Addition/obj/Debug/net10.0/Addition.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/Addition/obj/Debug/net10.0/Addition.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/Addition/obj/Debug/net10.0/Addition.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/Addition/obj/Debug/net10.0/Addition.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/Addition/obj/Debug/net10.0/Addition.sourcelink.json
+/workspaces/Dotnet_Azure/Addition/obj/Debug/net10.0/Addition.dll
+/workspaces/Dotnet_Azure/Addition/obj/Debug/net10.0/refint/Addition.dll
+/workspaces/Dotnet_Azure/Addition/obj/Debug/net10.0/Addition.pdb
+/workspaces/Dotnet_Azure/Addition/obj/Debug/net10.0/Addition.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/Addition/obj/Debug/net10.0/ref/Addition.dll

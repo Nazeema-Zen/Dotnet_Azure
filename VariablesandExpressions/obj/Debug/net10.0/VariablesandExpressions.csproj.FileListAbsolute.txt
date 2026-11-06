@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/VariablesandExpressions/bin/Debug/net10.0/VariablesandExpressions
+/workspaces/Dotnet_Azure/VariablesandExpressions/bin/Debug/net10.0/VariablesandExpressions.deps.json
+/workspaces/Dotnet_Azure/VariablesandExpressions/bin/Debug/net10.0/VariablesandExpressions.runtimeconfig.json
+/workspaces/Dotnet_Azure/VariablesandExpressions/bin/Debug/net10.0/VariablesandExpressions.dll
+/workspaces/Dotnet_Azure/VariablesandExpressions/bin/Debug/net10.0/VariablesandExpressions.pdb
+/workspaces/Dotnet_Azure/VariablesandExpressions/obj/Debug/net10.0/VariablesandExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/VariablesandExpressions/obj/Debug/net10.0/VariablesandExpressions.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/VariablesandExpressions/obj/Debug/net10.0/VariablesandExpressions.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/VariablesandExpressions/obj/Debug/net10.0/VariablesandExpressions.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/VariablesandExpressions/obj/Debug/net10.0/VariablesandExpressions.sourcelink.json
+/workspaces/Dotnet_Azure/VariablesandExpressions/obj/Debug/net10.0/VariablesandExpressions.dll
+/workspaces/Dotnet_Azure/VariablesandExpressions/obj/Debug/net10.0/refint/VariablesandExpressions.dll
+/workspaces/Dotnet_Azure/VariablesandExpressions/obj/Debug/net10.0/VariablesandExpressions.pdb
+/workspaces/Dotnet_Azure/VariablesandExpressions/obj/Debug/net10.0/VariablesandExpressions.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/VariablesandExpressions/obj/Debug/net10.0/ref/VariablesandExpressions.dll
