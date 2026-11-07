@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program
+class IntegerTypeswithRanges
 {
     static void Main()
     {

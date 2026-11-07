@@ -1,7 +1,7 @@
 ﻿#nullable enable
 using System;
 
-class Program
+class NullableTypes
 {
     static void Main()
     {

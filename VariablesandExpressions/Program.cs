@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program
+class VariablesandExpressions
 {
     static void Main()
     {
@@ -46,8 +46,7 @@ class Program
         var name = "Rahul";
         var salary = 50000.50;
         var isActive = true;
-        age="hello";
-
+        
         Console.WriteLine(age.GetType());
         Console.WriteLine(name.GetType());
         Console.WriteLine(salary.GetType());
