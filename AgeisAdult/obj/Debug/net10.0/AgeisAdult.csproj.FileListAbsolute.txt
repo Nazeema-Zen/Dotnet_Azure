@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/AgeisAdult/bin/Debug/net10.0/AgeisAdult
+/workspaces/Dotnet_Azure/AgeisAdult/bin/Debug/net10.0/AgeisAdult.deps.json
+/workspaces/Dotnet_Azure/AgeisAdult/bin/Debug/net10.0/AgeisAdult.runtimeconfig.json
+/workspaces/Dotnet_Azure/AgeisAdult/bin/Debug/net10.0/AgeisAdult.dll
+/workspaces/Dotnet_Azure/AgeisAdult/bin/Debug/net10.0/AgeisAdult.pdb
+/workspaces/Dotnet_Azure/AgeisAdult/obj/Debug/net10.0/AgeisAdult.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/AgeisAdult/obj/Debug/net10.0/AgeisAdult.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/AgeisAdult/obj/Debug/net10.0/AgeisAdult.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/AgeisAdult/obj/Debug/net10.0/AgeisAdult.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/AgeisAdult/obj/Debug/net10.0/AgeisAdult.sourcelink.json
+/workspaces/Dotnet_Azure/AgeisAdult/obj/Debug/net10.0/AgeisAdult.dll
+/workspaces/Dotnet_Azure/AgeisAdult/obj/Debug/net10.0/refint/AgeisAdult.dll
+/workspaces/Dotnet_Azure/AgeisAdult/obj/Debug/net10.0/AgeisAdult.pdb
+/workspaces/Dotnet_Azure/AgeisAdult/obj/Debug/net10.0/AgeisAdult.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/AgeisAdult/obj/Debug/net10.0/ref/AgeisAdult.dll

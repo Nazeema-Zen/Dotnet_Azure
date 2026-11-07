@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/GradeDigitSymbol/bin/Debug/net10.0/GradeDigitSymbol
+/workspaces/Dotnet_Azure/GradeDigitSymbol/bin/Debug/net10.0/GradeDigitSymbol.deps.json
+/workspaces/Dotnet_Azure/GradeDigitSymbol/bin/Debug/net10.0/GradeDigitSymbol.runtimeconfig.json
+/workspaces/Dotnet_Azure/GradeDigitSymbol/bin/Debug/net10.0/GradeDigitSymbol.dll
+/workspaces/Dotnet_Azure/GradeDigitSymbol/bin/Debug/net10.0/GradeDigitSymbol.pdb
+/workspaces/Dotnet_Azure/GradeDigitSymbol/obj/Debug/net10.0/GradeDigitSymbol.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/GradeDigitSymbol/obj/Debug/net10.0/GradeDigitSymbol.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/GradeDigitSymbol/obj/Debug/net10.0/GradeDigitSymbol.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/GradeDigitSymbol/obj/Debug/net10.0/GradeDigitSymbol.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/GradeDigitSymbol/obj/Debug/net10.0/GradeDigitSymbol.sourcelink.json
+/workspaces/Dotnet_Azure/GradeDigitSymbol/obj/Debug/net10.0/GradeDigitSymbol.dll
+/workspaces/Dotnet_Azure/GradeDigitSymbol/obj/Debug/net10.0/refint/GradeDigitSymbol.dll
+/workspaces/Dotnet_Azure/GradeDigitSymbol/obj/Debug/net10.0/GradeDigitSymbol.pdb
+/workspaces/Dotnet_Azure/GradeDigitSymbol/obj/Debug/net10.0/GradeDigitSymbol.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/GradeDigitSymbol/obj/Debug/net10.0/ref/GradeDigitSymbol.dll

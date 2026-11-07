@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/AgeSalary/bin/Debug/net10.0/AgeSalary
+/workspaces/Dotnet_Azure/AgeSalary/bin/Debug/net10.0/AgeSalary.deps.json
+/workspaces/Dotnet_Azure/AgeSalary/bin/Debug/net10.0/AgeSalary.runtimeconfig.json
+/workspaces/Dotnet_Azure/AgeSalary/bin/Debug/net10.0/AgeSalary.dll
+/workspaces/Dotnet_Azure/AgeSalary/bin/Debug/net10.0/AgeSalary.pdb
+/workspaces/Dotnet_Azure/AgeSalary/obj/Debug/net10.0/AgeSalary.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/AgeSalary/obj/Debug/net10.0/AgeSalary.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/AgeSalary/obj/Debug/net10.0/AgeSalary.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/AgeSalary/obj/Debug/net10.0/AgeSalary.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/AgeSalary/obj/Debug/net10.0/AgeSalary.sourcelink.json
+/workspaces/Dotnet_Azure/AgeSalary/obj/Debug/net10.0/AgeSalary.dll
+/workspaces/Dotnet_Azure/AgeSalary/obj/Debug/net10.0/refint/AgeSalary.dll
+/workspaces/Dotnet_Azure/AgeSalary/obj/Debug/net10.0/AgeSalary.pdb
+/workspaces/Dotnet_Azure/AgeSalary/obj/Debug/net10.0/AgeSalary.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/AgeSalary/obj/Debug/net10.0/ref/AgeSalary.dll

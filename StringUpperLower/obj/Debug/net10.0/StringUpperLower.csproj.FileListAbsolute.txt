@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/StringUpperLower/bin/Debug/net10.0/StringUpperLower
+/workspaces/Dotnet_Azure/StringUpperLower/bin/Debug/net10.0/StringUpperLower.deps.json
+/workspaces/Dotnet_Azure/StringUpperLower/bin/Debug/net10.0/StringUpperLower.runtimeconfig.json
+/workspaces/Dotnet_Azure/StringUpperLower/bin/Debug/net10.0/StringUpperLower.dll
+/workspaces/Dotnet_Azure/StringUpperLower/bin/Debug/net10.0/StringUpperLower.pdb
+/workspaces/Dotnet_Azure/StringUpperLower/obj/Debug/net10.0/StringUpperLower.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/StringUpperLower/obj/Debug/net10.0/StringUpperLower.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/StringUpperLower/obj/Debug/net10.0/StringUpperLower.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/StringUpperLower/obj/Debug/net10.0/StringUpperLower.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/StringUpperLower/obj/Debug/net10.0/StringUpperLower.sourcelink.json
+/workspaces/Dotnet_Azure/StringUpperLower/obj/Debug/net10.0/StringUpperLower.dll
+/workspaces/Dotnet_Azure/StringUpperLower/obj/Debug/net10.0/refint/StringUpperLower.dll
+/workspaces/Dotnet_Azure/StringUpperLower/obj/Debug/net10.0/StringUpperLower.pdb
+/workspaces/Dotnet_Azure/StringUpperLower/obj/Debug/net10.0/StringUpperLower.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/StringUpperLower/obj/Debug/net10.0/ref/StringUpperLower.dll
