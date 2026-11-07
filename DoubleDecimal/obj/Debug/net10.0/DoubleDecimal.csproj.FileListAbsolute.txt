@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/DoubleDecimal/bin/Debug/net10.0/DoubleDecimal
+/workspaces/Dotnet_Azure/DoubleDecimal/bin/Debug/net10.0/DoubleDecimal.deps.json
+/workspaces/Dotnet_Azure/DoubleDecimal/bin/Debug/net10.0/DoubleDecimal.runtimeconfig.json
+/workspaces/Dotnet_Azure/DoubleDecimal/bin/Debug/net10.0/DoubleDecimal.dll
+/workspaces/Dotnet_Azure/DoubleDecimal/bin/Debug/net10.0/DoubleDecimal.pdb
+/workspaces/Dotnet_Azure/DoubleDecimal/obj/Debug/net10.0/DoubleDecimal.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/DoubleDecimal/obj/Debug/net10.0/DoubleDecimal.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/DoubleDecimal/obj/Debug/net10.0/DoubleDecimal.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/DoubleDecimal/obj/Debug/net10.0/DoubleDecimal.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/DoubleDecimal/obj/Debug/net10.0/DoubleDecimal.sourcelink.json
+/workspaces/Dotnet_Azure/DoubleDecimal/obj/Debug/net10.0/DoubleDecimal.dll
+/workspaces/Dotnet_Azure/DoubleDecimal/obj/Debug/net10.0/refint/DoubleDecimal.dll
+/workspaces/Dotnet_Azure/DoubleDecimal/obj/Debug/net10.0/DoubleDecimal.pdb
+/workspaces/Dotnet_Azure/DoubleDecimal/obj/Debug/net10.0/DoubleDecimal.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/DoubleDecimal/obj/Debug/net10.0/ref/DoubleDecimal.dll

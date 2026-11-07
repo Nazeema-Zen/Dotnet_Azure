@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/HeightDistance/bin/Debug/net10.0/HeightDistance
+/workspaces/Dotnet_Azure/HeightDistance/bin/Debug/net10.0/HeightDistance.deps.json
+/workspaces/Dotnet_Azure/HeightDistance/bin/Debug/net10.0/HeightDistance.runtimeconfig.json
+/workspaces/Dotnet_Azure/HeightDistance/bin/Debug/net10.0/HeightDistance.dll
+/workspaces/Dotnet_Azure/HeightDistance/bin/Debug/net10.0/HeightDistance.pdb
+/workspaces/Dotnet_Azure/HeightDistance/obj/Debug/net10.0/HeightDistance.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/HeightDistance/obj/Debug/net10.0/HeightDistance.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/HeightDistance/obj/Debug/net10.0/HeightDistance.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/HeightDistance/obj/Debug/net10.0/HeightDistance.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/HeightDistance/obj/Debug/net10.0/HeightDistance.sourcelink.json
+/workspaces/Dotnet_Azure/HeightDistance/obj/Debug/net10.0/HeightDistance.dll
+/workspaces/Dotnet_Azure/HeightDistance/obj/Debug/net10.0/refint/HeightDistance.dll
+/workspaces/Dotnet_Azure/HeightDistance/obj/Debug/net10.0/HeightDistance.pdb
+/workspaces/Dotnet_Azure/HeightDistance/obj/Debug/net10.0/HeightDistance.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/HeightDistance/obj/Debug/net10.0/ref/HeightDistance.dll

@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/ProductPriceGst/bin/Debug/net10.0/ProductPriceGst
+/workspaces/Dotnet_Azure/ProductPriceGst/bin/Debug/net10.0/ProductPriceGst.deps.json
+/workspaces/Dotnet_Azure/ProductPriceGst/bin/Debug/net10.0/ProductPriceGst.runtimeconfig.json
+/workspaces/Dotnet_Azure/ProductPriceGst/bin/Debug/net10.0/ProductPriceGst.dll
+/workspaces/Dotnet_Azure/ProductPriceGst/bin/Debug/net10.0/ProductPriceGst.pdb
+/workspaces/Dotnet_Azure/ProductPriceGst/obj/Debug/net10.0/ProductPriceGst.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/ProductPriceGst/obj/Debug/net10.0/ProductPriceGst.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/ProductPriceGst/obj/Debug/net10.0/ProductPriceGst.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/ProductPriceGst/obj/Debug/net10.0/ProductPriceGst.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/ProductPriceGst/obj/Debug/net10.0/ProductPriceGst.sourcelink.json
+/workspaces/Dotnet_Azure/ProductPriceGst/obj/Debug/net10.0/ProductPriceGst.dll
+/workspaces/Dotnet_Azure/ProductPriceGst/obj/Debug/net10.0/refint/ProductPriceGst.dll
+/workspaces/Dotnet_Azure/ProductPriceGst/obj/Debug/net10.0/ProductPriceGst.pdb
+/workspaces/Dotnet_Azure/ProductPriceGst/obj/Debug/net10.0/ProductPriceGst.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/ProductPriceGst/obj/Debug/net10.0/ref/ProductPriceGst.dll

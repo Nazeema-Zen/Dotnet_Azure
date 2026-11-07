@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/FloatAdd/bin/Debug/net10.0/FloatAdd
+/workspaces/Dotnet_Azure/FloatAdd/bin/Debug/net10.0/FloatAdd.deps.json
+/workspaces/Dotnet_Azure/FloatAdd/bin/Debug/net10.0/FloatAdd.runtimeconfig.json
+/workspaces/Dotnet_Azure/FloatAdd/bin/Debug/net10.0/FloatAdd.dll
+/workspaces/Dotnet_Azure/FloatAdd/bin/Debug/net10.0/FloatAdd.pdb
+/workspaces/Dotnet_Azure/FloatAdd/obj/Debug/net10.0/FloatAdd.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/FloatAdd/obj/Debug/net10.0/FloatAdd.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/FloatAdd/obj/Debug/net10.0/FloatAdd.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/FloatAdd/obj/Debug/net10.0/FloatAdd.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/FloatAdd/obj/Debug/net10.0/FloatAdd.sourcelink.json
+/workspaces/Dotnet_Azure/FloatAdd/obj/Debug/net10.0/FloatAdd.dll
+/workspaces/Dotnet_Azure/FloatAdd/obj/Debug/net10.0/refint/FloatAdd.dll
+/workspaces/Dotnet_Azure/FloatAdd/obj/Debug/net10.0/FloatAdd.pdb
+/workspaces/Dotnet_Azure/FloatAdd/obj/Debug/net10.0/FloatAdd.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/FloatAdd/obj/Debug/net10.0/ref/FloatAdd.dll

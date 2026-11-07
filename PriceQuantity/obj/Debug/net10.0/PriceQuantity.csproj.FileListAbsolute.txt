@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/PriceQuantity/bin/Debug/net10.0/PriceQuantity
+/workspaces/Dotnet_Azure/PriceQuantity/bin/Debug/net10.0/PriceQuantity.deps.json
+/workspaces/Dotnet_Azure/PriceQuantity/bin/Debug/net10.0/PriceQuantity.runtimeconfig.json
+/workspaces/Dotnet_Azure/PriceQuantity/bin/Debug/net10.0/PriceQuantity.dll
+/workspaces/Dotnet_Azure/PriceQuantity/bin/Debug/net10.0/PriceQuantity.pdb
+/workspaces/Dotnet_Azure/PriceQuantity/obj/Debug/net10.0/PriceQuantity.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/PriceQuantity/obj/Debug/net10.0/PriceQuantity.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/PriceQuantity/obj/Debug/net10.0/PriceQuantity.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/PriceQuantity/obj/Debug/net10.0/PriceQuantity.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/PriceQuantity/obj/Debug/net10.0/PriceQuantity.sourcelink.json
+/workspaces/Dotnet_Azure/PriceQuantity/obj/Debug/net10.0/PriceQuantity.dll
+/workspaces/Dotnet_Azure/PriceQuantity/obj/Debug/net10.0/refint/PriceQuantity.dll
+/workspaces/Dotnet_Azure/PriceQuantity/obj/Debug/net10.0/PriceQuantity.pdb
+/workspaces/Dotnet_Azure/PriceQuantity/obj/Debug/net10.0/PriceQuantity.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/PriceQuantity/obj/Debug/net10.0/ref/PriceQuantity.dll
