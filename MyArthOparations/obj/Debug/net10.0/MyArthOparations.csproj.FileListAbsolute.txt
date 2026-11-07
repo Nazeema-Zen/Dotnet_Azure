@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/MyArthOparations/bin/Debug/net10.0/MyArthOparations
+/workspaces/Dotnet_Azure/MyArthOparations/bin/Debug/net10.0/MyArthOparations.deps.json
+/workspaces/Dotnet_Azure/MyArthOparations/bin/Debug/net10.0/MyArthOparations.runtimeconfig.json
+/workspaces/Dotnet_Azure/MyArthOparations/bin/Debug/net10.0/MyArthOparations.dll
+/workspaces/Dotnet_Azure/MyArthOparations/bin/Debug/net10.0/MyArthOparations.pdb
+/workspaces/Dotnet_Azure/MyArthOparations/obj/Debug/net10.0/MyArthOparations.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/MyArthOparations/obj/Debug/net10.0/MyArthOparations.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/MyArthOparations/obj/Debug/net10.0/MyArthOparations.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/MyArthOparations/obj/Debug/net10.0/MyArthOparations.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/MyArthOparations/obj/Debug/net10.0/MyArthOparations.sourcelink.json
+/workspaces/Dotnet_Azure/MyArthOparations/obj/Debug/net10.0/MyArthOparations.dll
+/workspaces/Dotnet_Azure/MyArthOparations/obj/Debug/net10.0/refint/MyArthOparations.dll
+/workspaces/Dotnet_Azure/MyArthOparations/obj/Debug/net10.0/MyArthOparations.pdb
+/workspaces/Dotnet_Azure/MyArthOparations/obj/Debug/net10.0/MyArthOparations.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/MyArthOparations/obj/Debug/net10.0/ref/MyArthOparations.dll
