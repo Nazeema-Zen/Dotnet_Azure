@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/demoarthOparations/bin/Debug/net10.0/demoarthOparations
+/workspaces/Dotnet_Azure/demoarthOparations/bin/Debug/net10.0/demoarthOparations.deps.json
+/workspaces/Dotnet_Azure/demoarthOparations/bin/Debug/net10.0/demoarthOparations.runtimeconfig.json
+/workspaces/Dotnet_Azure/demoarthOparations/bin/Debug/net10.0/demoarthOparations.dll
+/workspaces/Dotnet_Azure/demoarthOparations/bin/Debug/net10.0/demoarthOparations.pdb
+/workspaces/Dotnet_Azure/demoarthOparations/obj/Debug/net10.0/demoarthOparations.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/demoarthOparations/obj/Debug/net10.0/demoarthOparations.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/demoarthOparations/obj/Debug/net10.0/demoarthOparations.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/demoarthOparations/obj/Debug/net10.0/demoarthOparations.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/demoarthOparations/obj/Debug/net10.0/demoarthOparations.sourcelink.json
+/workspaces/Dotnet_Azure/demoarthOparations/obj/Debug/net10.0/demoarthOparations.dll
+/workspaces/Dotnet_Azure/demoarthOparations/obj/Debug/net10.0/refint/demoarthOparations.dll
+/workspaces/Dotnet_Azure/demoarthOparations/obj/Debug/net10.0/demoarthOparations.pdb
+/workspaces/Dotnet_Azure/demoarthOparations/obj/Debug/net10.0/demoarthOparations.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/demoarthOparations/obj/Debug/net10.0/ref/demoarthOparations.dll

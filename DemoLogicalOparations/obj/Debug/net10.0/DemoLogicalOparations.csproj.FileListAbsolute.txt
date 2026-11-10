@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/DemoLogicalOparations/bin/Debug/net10.0/DemoLogicalOparations
+/workspaces/Dotnet_Azure/DemoLogicalOparations/bin/Debug/net10.0/DemoLogicalOparations.deps.json
+/workspaces/Dotnet_Azure/DemoLogicalOparations/bin/Debug/net10.0/DemoLogicalOparations.runtimeconfig.json
+/workspaces/Dotnet_Azure/DemoLogicalOparations/bin/Debug/net10.0/DemoLogicalOparations.dll
+/workspaces/Dotnet_Azure/DemoLogicalOparations/bin/Debug/net10.0/DemoLogicalOparations.pdb
+/workspaces/Dotnet_Azure/DemoLogicalOparations/obj/Debug/net10.0/DemoLogicalOparations.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/DemoLogicalOparations/obj/Debug/net10.0/DemoLogicalOparations.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/DemoLogicalOparations/obj/Debug/net10.0/DemoLogicalOparations.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/DemoLogicalOparations/obj/Debug/net10.0/DemoLogicalOparations.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/DemoLogicalOparations/obj/Debug/net10.0/DemoLogicalOparations.sourcelink.json
+/workspaces/Dotnet_Azure/DemoLogicalOparations/obj/Debug/net10.0/DemoLogicalOparations.dll
+/workspaces/Dotnet_Azure/DemoLogicalOparations/obj/Debug/net10.0/refint/DemoLogicalOparations.dll
+/workspaces/Dotnet_Azure/DemoLogicalOparations/obj/Debug/net10.0/DemoLogicalOparations.pdb
+/workspaces/Dotnet_Azure/DemoLogicalOparations/obj/Debug/net10.0/DemoLogicalOparations.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/DemoLogicalOparations/obj/Debug/net10.0/ref/DemoLogicalOparations.dll

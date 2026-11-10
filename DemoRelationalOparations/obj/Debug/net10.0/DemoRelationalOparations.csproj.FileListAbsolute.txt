@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/DemoRelationalOparations/bin/Debug/net10.0/DemoRelationalOparations
+/workspaces/Dotnet_Azure/DemoRelationalOparations/bin/Debug/net10.0/DemoRelationalOparations.deps.json
+/workspaces/Dotnet_Azure/DemoRelationalOparations/bin/Debug/net10.0/DemoRelationalOparations.runtimeconfig.json
+/workspaces/Dotnet_Azure/DemoRelationalOparations/bin/Debug/net10.0/DemoRelationalOparations.dll
+/workspaces/Dotnet_Azure/DemoRelationalOparations/bin/Debug/net10.0/DemoRelationalOparations.pdb
+/workspaces/Dotnet_Azure/DemoRelationalOparations/obj/Debug/net10.0/DemoRelationalOparations.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/DemoRelationalOparations/obj/Debug/net10.0/DemoRelationalOparations.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/DemoRelationalOparations/obj/Debug/net10.0/DemoRelationalOparations.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/DemoRelationalOparations/obj/Debug/net10.0/DemoRelationalOparations.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/DemoRelationalOparations/obj/Debug/net10.0/DemoRelationalOparations.sourcelink.json
+/workspaces/Dotnet_Azure/DemoRelationalOparations/obj/Debug/net10.0/DemoRelationalOparations.dll
+/workspaces/Dotnet_Azure/DemoRelationalOparations/obj/Debug/net10.0/refint/DemoRelationalOparations.dll
+/workspaces/Dotnet_Azure/DemoRelationalOparations/obj/Debug/net10.0/DemoRelationalOparations.pdb
+/workspaces/Dotnet_Azure/DemoRelationalOparations/obj/Debug/net10.0/DemoRelationalOparations.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/DemoRelationalOparations/obj/Debug/net10.0/ref/DemoRelationalOparations.dll
