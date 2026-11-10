@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/DemoConstrolStructures/bin/Debug/net10.0/DemoConstrolStructures
+/workspaces/Dotnet_Azure/DemoConstrolStructures/bin/Debug/net10.0/DemoConstrolStructures.deps.json
+/workspaces/Dotnet_Azure/DemoConstrolStructures/bin/Debug/net10.0/DemoConstrolStructures.runtimeconfig.json
+/workspaces/Dotnet_Azure/DemoConstrolStructures/bin/Debug/net10.0/DemoConstrolStructures.dll
+/workspaces/Dotnet_Azure/DemoConstrolStructures/bin/Debug/net10.0/DemoConstrolStructures.pdb
+/workspaces/Dotnet_Azure/DemoConstrolStructures/obj/Debug/net10.0/DemoConstrolStructures.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/DemoConstrolStructures/obj/Debug/net10.0/DemoConstrolStructures.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/DemoConstrolStructures/obj/Debug/net10.0/DemoConstrolStructures.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/DemoConstrolStructures/obj/Debug/net10.0/DemoConstrolStructures.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/DemoConstrolStructures/obj/Debug/net10.0/DemoConstrolStructures.sourcelink.json
+/workspaces/Dotnet_Azure/DemoConstrolStructures/obj/Debug/net10.0/DemoConstrolStructures.dll
+/workspaces/Dotnet_Azure/DemoConstrolStructures/obj/Debug/net10.0/refint/DemoConstrolStructures.dll
+/workspaces/Dotnet_Azure/DemoConstrolStructures/obj/Debug/net10.0/DemoConstrolStructures.pdb
+/workspaces/Dotnet_Azure/DemoConstrolStructures/obj/Debug/net10.0/DemoConstrolStructures.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/DemoConstrolStructures/obj/Debug/net10.0/ref/DemoConstrolStructures.dll

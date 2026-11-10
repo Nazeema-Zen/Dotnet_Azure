@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/DemoAssognmentOparations/bin/Debug/net10.0/DemoAssognmentOparations
+/workspaces/Dotnet_Azure/DemoAssognmentOparations/bin/Debug/net10.0/DemoAssognmentOparations.deps.json
+/workspaces/Dotnet_Azure/DemoAssognmentOparations/bin/Debug/net10.0/DemoAssognmentOparations.runtimeconfig.json
+/workspaces/Dotnet_Azure/DemoAssognmentOparations/bin/Debug/net10.0/DemoAssognmentOparations.dll
+/workspaces/Dotnet_Azure/DemoAssognmentOparations/bin/Debug/net10.0/DemoAssognmentOparations.pdb
+/workspaces/Dotnet_Azure/DemoAssognmentOparations/obj/Debug/net10.0/DemoAssognmentOparations.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/DemoAssognmentOparations/obj/Debug/net10.0/DemoAssognmentOparations.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/DemoAssognmentOparations/obj/Debug/net10.0/DemoAssognmentOparations.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/DemoAssognmentOparations/obj/Debug/net10.0/DemoAssognmentOparations.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/DemoAssognmentOparations/obj/Debug/net10.0/DemoAssognmentOparations.sourcelink.json
+/workspaces/Dotnet_Azure/DemoAssognmentOparations/obj/Debug/net10.0/DemoAssognmentOparations.dll
+/workspaces/Dotnet_Azure/DemoAssognmentOparations/obj/Debug/net10.0/refint/DemoAssognmentOparations.dll
+/workspaces/Dotnet_Azure/DemoAssognmentOparations/obj/Debug/net10.0/DemoAssognmentOparations.pdb
+/workspaces/Dotnet_Azure/DemoAssognmentOparations/obj/Debug/net10.0/DemoAssognmentOparations.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/DemoAssognmentOparations/obj/Debug/net10.0/ref/DemoAssognmentOparations.dll

@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/DemoFor/bin/Debug/net10.0/DemoFor
+/workspaces/Dotnet_Azure/DemoFor/bin/Debug/net10.0/DemoFor.deps.json
+/workspaces/Dotnet_Azure/DemoFor/bin/Debug/net10.0/DemoFor.runtimeconfig.json
+/workspaces/Dotnet_Azure/DemoFor/bin/Debug/net10.0/DemoFor.dll
+/workspaces/Dotnet_Azure/DemoFor/bin/Debug/net10.0/DemoFor.pdb
+/workspaces/Dotnet_Azure/DemoFor/obj/Debug/net10.0/DemoFor.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/DemoFor/obj/Debug/net10.0/DemoFor.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/DemoFor/obj/Debug/net10.0/DemoFor.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/DemoFor/obj/Debug/net10.0/DemoFor.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/DemoFor/obj/Debug/net10.0/DemoFor.sourcelink.json
+/workspaces/Dotnet_Azure/DemoFor/obj/Debug/net10.0/DemoFor.dll
+/workspaces/Dotnet_Azure/DemoFor/obj/Debug/net10.0/refint/DemoFor.dll
+/workspaces/Dotnet_Azure/DemoFor/obj/Debug/net10.0/DemoFor.pdb
+/workspaces/Dotnet_Azure/DemoFor/obj/Debug/net10.0/DemoFor.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/DemoFor/obj/Debug/net10.0/ref/DemoFor.dll
