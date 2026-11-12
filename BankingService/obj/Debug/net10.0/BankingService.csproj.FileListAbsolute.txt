@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/BankingService/bin/Debug/net10.0/BankingService
+/workspaces/Dotnet_Azure/BankingService/bin/Debug/net10.0/BankingService.deps.json
+/workspaces/Dotnet_Azure/BankingService/bin/Debug/net10.0/BankingService.runtimeconfig.json
+/workspaces/Dotnet_Azure/BankingService/bin/Debug/net10.0/BankingService.dll
+/workspaces/Dotnet_Azure/BankingService/bin/Debug/net10.0/BankingService.pdb
+/workspaces/Dotnet_Azure/BankingService/obj/Debug/net10.0/BankingService.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/BankingService/obj/Debug/net10.0/BankingService.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/BankingService/obj/Debug/net10.0/BankingService.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/BankingService/obj/Debug/net10.0/BankingService.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/BankingService/obj/Debug/net10.0/BankingService.sourcelink.json
+/workspaces/Dotnet_Azure/BankingService/obj/Debug/net10.0/BankingService.dll
+/workspaces/Dotnet_Azure/BankingService/obj/Debug/net10.0/refint/BankingService.dll
+/workspaces/Dotnet_Azure/BankingService/obj/Debug/net10.0/BankingService.pdb
+/workspaces/Dotnet_Azure/BankingService/obj/Debug/net10.0/BankingService.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/BankingService/obj/Debug/net10.0/ref/BankingService.dll

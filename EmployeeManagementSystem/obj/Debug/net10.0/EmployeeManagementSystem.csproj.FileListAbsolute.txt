@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/EmployeeManagementSystem/bin/Debug/net10.0/EmployeeManagementSystem
+/workspaces/Dotnet_Azure/EmployeeManagementSystem/bin/Debug/net10.0/EmployeeManagementSystem.deps.json
+/workspaces/Dotnet_Azure/EmployeeManagementSystem/bin/Debug/net10.0/EmployeeManagementSystem.runtimeconfig.json
+/workspaces/Dotnet_Azure/EmployeeManagementSystem/bin/Debug/net10.0/EmployeeManagementSystem.dll
+/workspaces/Dotnet_Azure/EmployeeManagementSystem/bin/Debug/net10.0/EmployeeManagementSystem.pdb
+/workspaces/Dotnet_Azure/EmployeeManagementSystem/obj/Debug/net10.0/EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/EmployeeManagementSystem/obj/Debug/net10.0/EmployeeManagementSystem.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/EmployeeManagementSystem/obj/Debug/net10.0/EmployeeManagementSystem.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/EmployeeManagementSystem/obj/Debug/net10.0/EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/EmployeeManagementSystem/obj/Debug/net10.0/EmployeeManagementSystem.sourcelink.json
+/workspaces/Dotnet_Azure/EmployeeManagementSystem/obj/Debug/net10.0/EmployeeManagementSystem.dll
+/workspaces/Dotnet_Azure/EmployeeManagementSystem/obj/Debug/net10.0/refint/EmployeeManagementSystem.dll
+/workspaces/Dotnet_Azure/EmployeeManagementSystem/obj/Debug/net10.0/EmployeeManagementSystem.pdb
+/workspaces/Dotnet_Azure/EmployeeManagementSystem/obj/Debug/net10.0/EmployeeManagementSystem.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/EmployeeManagementSystem/obj/Debug/net10.0/ref/EmployeeManagementSystem.dll

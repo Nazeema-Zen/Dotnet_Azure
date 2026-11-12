@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/BoxingUnBoxingDemo/bin/Debug/net10.0/BoxingUnBoxingDemo
+/workspaces/Dotnet_Azure/BoxingUnBoxingDemo/bin/Debug/net10.0/BoxingUnBoxingDemo.deps.json
+/workspaces/Dotnet_Azure/BoxingUnBoxingDemo/bin/Debug/net10.0/BoxingUnBoxingDemo.runtimeconfig.json
+/workspaces/Dotnet_Azure/BoxingUnBoxingDemo/bin/Debug/net10.0/BoxingUnBoxingDemo.dll
+/workspaces/Dotnet_Azure/BoxingUnBoxingDemo/bin/Debug/net10.0/BoxingUnBoxingDemo.pdb
+/workspaces/Dotnet_Azure/BoxingUnBoxingDemo/obj/Debug/net10.0/BoxingUnBoxingDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/BoxingUnBoxingDemo/obj/Debug/net10.0/BoxingUnBoxingDemo.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/BoxingUnBoxingDemo/obj/Debug/net10.0/BoxingUnBoxingDemo.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/BoxingUnBoxingDemo/obj/Debug/net10.0/BoxingUnBoxingDemo.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/BoxingUnBoxingDemo/obj/Debug/net10.0/BoxingUnBoxingDemo.sourcelink.json
+/workspaces/Dotnet_Azure/BoxingUnBoxingDemo/obj/Debug/net10.0/BoxingUnBoxingDemo.dll
+/workspaces/Dotnet_Azure/BoxingUnBoxingDemo/obj/Debug/net10.0/refint/BoxingUnBoxingDemo.dll
+/workspaces/Dotnet_Azure/BoxingUnBoxingDemo/obj/Debug/net10.0/BoxingUnBoxingDemo.pdb
+/workspaces/Dotnet_Azure/BoxingUnBoxingDemo/obj/Debug/net10.0/BoxingUnBoxingDemo.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/BoxingUnBoxingDemo/obj/Debug/net10.0/ref/BoxingUnBoxingDemo.dll

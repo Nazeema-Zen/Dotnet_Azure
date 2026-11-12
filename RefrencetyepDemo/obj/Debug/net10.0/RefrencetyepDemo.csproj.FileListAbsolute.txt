@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/RefrencetyepDemo/bin/Debug/net10.0/RefrencetyepDemo
+/workspaces/Dotnet_Azure/RefrencetyepDemo/bin/Debug/net10.0/RefrencetyepDemo.deps.json
+/workspaces/Dotnet_Azure/RefrencetyepDemo/bin/Debug/net10.0/RefrencetyepDemo.runtimeconfig.json
+/workspaces/Dotnet_Azure/RefrencetyepDemo/bin/Debug/net10.0/RefrencetyepDemo.dll
+/workspaces/Dotnet_Azure/RefrencetyepDemo/bin/Debug/net10.0/RefrencetyepDemo.pdb
+/workspaces/Dotnet_Azure/RefrencetyepDemo/obj/Debug/net10.0/RefrencetyepDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/RefrencetyepDemo/obj/Debug/net10.0/RefrencetyepDemo.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/RefrencetyepDemo/obj/Debug/net10.0/RefrencetyepDemo.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/RefrencetyepDemo/obj/Debug/net10.0/RefrencetyepDemo.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/RefrencetyepDemo/obj/Debug/net10.0/RefrencetyepDemo.sourcelink.json
+/workspaces/Dotnet_Azure/RefrencetyepDemo/obj/Debug/net10.0/RefrencetyepDemo.dll
+/workspaces/Dotnet_Azure/RefrencetyepDemo/obj/Debug/net10.0/refint/RefrencetyepDemo.dll
+/workspaces/Dotnet_Azure/RefrencetyepDemo/obj/Debug/net10.0/RefrencetyepDemo.pdb
+/workspaces/Dotnet_Azure/RefrencetyepDemo/obj/Debug/net10.0/RefrencetyepDemo.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/RefrencetyepDemo/obj/Debug/net10.0/ref/RefrencetyepDemo.dll

@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/ProductDemo/bin/Debug/net10.0/ProductDemo
+/workspaces/Dotnet_Azure/ProductDemo/bin/Debug/net10.0/ProductDemo.deps.json
+/workspaces/Dotnet_Azure/ProductDemo/bin/Debug/net10.0/ProductDemo.runtimeconfig.json
+/workspaces/Dotnet_Azure/ProductDemo/bin/Debug/net10.0/ProductDemo.dll
+/workspaces/Dotnet_Azure/ProductDemo/bin/Debug/net10.0/ProductDemo.pdb
+/workspaces/Dotnet_Azure/ProductDemo/obj/Debug/net10.0/ProductDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/ProductDemo/obj/Debug/net10.0/ProductDemo.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/ProductDemo/obj/Debug/net10.0/ProductDemo.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/ProductDemo/obj/Debug/net10.0/ProductDemo.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/ProductDemo/obj/Debug/net10.0/ProductDemo.sourcelink.json
+/workspaces/Dotnet_Azure/ProductDemo/obj/Debug/net10.0/ProductDemo.dll
+/workspaces/Dotnet_Azure/ProductDemo/obj/Debug/net10.0/refint/ProductDemo.dll
+/workspaces/Dotnet_Azure/ProductDemo/obj/Debug/net10.0/ProductDemo.pdb
+/workspaces/Dotnet_Azure/ProductDemo/obj/Debug/net10.0/ProductDemo.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/ProductDemo/obj/Debug/net10.0/ref/ProductDemo.dll

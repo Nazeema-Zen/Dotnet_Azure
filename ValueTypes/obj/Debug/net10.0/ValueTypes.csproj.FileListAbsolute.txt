@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/ValueTypes/bin/Debug/net10.0/ValueTypes
+/workspaces/Dotnet_Azure/ValueTypes/bin/Debug/net10.0/ValueTypes.deps.json
+/workspaces/Dotnet_Azure/ValueTypes/bin/Debug/net10.0/ValueTypes.runtimeconfig.json
+/workspaces/Dotnet_Azure/ValueTypes/bin/Debug/net10.0/ValueTypes.dll
+/workspaces/Dotnet_Azure/ValueTypes/bin/Debug/net10.0/ValueTypes.pdb
+/workspaces/Dotnet_Azure/ValueTypes/obj/Debug/net10.0/ValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/ValueTypes/obj/Debug/net10.0/ValueTypes.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/ValueTypes/obj/Debug/net10.0/ValueTypes.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/ValueTypes/obj/Debug/net10.0/ValueTypes.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/ValueTypes/obj/Debug/net10.0/ValueTypes.sourcelink.json
+/workspaces/Dotnet_Azure/ValueTypes/obj/Debug/net10.0/ValueTypes.dll
+/workspaces/Dotnet_Azure/ValueTypes/obj/Debug/net10.0/refint/ValueTypes.dll
+/workspaces/Dotnet_Azure/ValueTypes/obj/Debug/net10.0/ValueTypes.pdb
+/workspaces/Dotnet_Azure/ValueTypes/obj/Debug/net10.0/ValueTypes.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/ValueTypes/obj/Debug/net10.0/ref/ValueTypes.dll

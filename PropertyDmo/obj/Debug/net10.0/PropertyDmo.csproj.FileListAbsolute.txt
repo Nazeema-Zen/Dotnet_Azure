@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/PropertyDmo/bin/Debug/net10.0/PropertyDmo
+/workspaces/Dotnet_Azure/PropertyDmo/bin/Debug/net10.0/PropertyDmo.deps.json
+/workspaces/Dotnet_Azure/PropertyDmo/bin/Debug/net10.0/PropertyDmo.runtimeconfig.json
+/workspaces/Dotnet_Azure/PropertyDmo/bin/Debug/net10.0/PropertyDmo.dll
+/workspaces/Dotnet_Azure/PropertyDmo/bin/Debug/net10.0/PropertyDmo.pdb
+/workspaces/Dotnet_Azure/PropertyDmo/obj/Debug/net10.0/PropertyDmo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/PropertyDmo/obj/Debug/net10.0/PropertyDmo.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/PropertyDmo/obj/Debug/net10.0/PropertyDmo.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/PropertyDmo/obj/Debug/net10.0/PropertyDmo.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/PropertyDmo/obj/Debug/net10.0/PropertyDmo.sourcelink.json
+/workspaces/Dotnet_Azure/PropertyDmo/obj/Debug/net10.0/PropertyDmo.dll
+/workspaces/Dotnet_Azure/PropertyDmo/obj/Debug/net10.0/refint/PropertyDmo.dll
+/workspaces/Dotnet_Azure/PropertyDmo/obj/Debug/net10.0/PropertyDmo.pdb
+/workspaces/Dotnet_Azure/PropertyDmo/obj/Debug/net10.0/PropertyDmo.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/PropertyDmo/obj/Debug/net10.0/ref/PropertyDmo.dll

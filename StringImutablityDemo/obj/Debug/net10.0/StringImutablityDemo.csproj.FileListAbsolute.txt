@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/StringImutablityDemo/bin/Debug/net10.0/StringImutablityDemo
+/workspaces/Dotnet_Azure/StringImutablityDemo/bin/Debug/net10.0/StringImutablityDemo.deps.json
+/workspaces/Dotnet_Azure/StringImutablityDemo/bin/Debug/net10.0/StringImutablityDemo.runtimeconfig.json
+/workspaces/Dotnet_Azure/StringImutablityDemo/bin/Debug/net10.0/StringImutablityDemo.dll
+/workspaces/Dotnet_Azure/StringImutablityDemo/bin/Debug/net10.0/StringImutablityDemo.pdb
+/workspaces/Dotnet_Azure/StringImutablityDemo/obj/Debug/net10.0/StringImutablityDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/StringImutablityDemo/obj/Debug/net10.0/StringImutablityDemo.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/StringImutablityDemo/obj/Debug/net10.0/StringImutablityDemo.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/StringImutablityDemo/obj/Debug/net10.0/StringImutablityDemo.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/StringImutablityDemo/obj/Debug/net10.0/StringImutablityDemo.sourcelink.json
+/workspaces/Dotnet_Azure/StringImutablityDemo/obj/Debug/net10.0/StringImutablityDemo.dll
+/workspaces/Dotnet_Azure/StringImutablityDemo/obj/Debug/net10.0/refint/StringImutablityDemo.dll
+/workspaces/Dotnet_Azure/StringImutablityDemo/obj/Debug/net10.0/StringImutablityDemo.pdb
+/workspaces/Dotnet_Azure/StringImutablityDemo/obj/Debug/net10.0/StringImutablityDemo.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/StringImutablityDemo/obj/Debug/net10.0/ref/StringImutablityDemo.dll

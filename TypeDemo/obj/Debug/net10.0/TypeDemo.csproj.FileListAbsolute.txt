@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/TypeDemo/bin/Debug/net10.0/TypeDemo
+/workspaces/Dotnet_Azure/TypeDemo/bin/Debug/net10.0/TypeDemo.deps.json
+/workspaces/Dotnet_Azure/TypeDemo/bin/Debug/net10.0/TypeDemo.runtimeconfig.json
+/workspaces/Dotnet_Azure/TypeDemo/bin/Debug/net10.0/TypeDemo.dll
+/workspaces/Dotnet_Azure/TypeDemo/bin/Debug/net10.0/TypeDemo.pdb
+/workspaces/Dotnet_Azure/TypeDemo/obj/Debug/net10.0/TypeDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/TypeDemo/obj/Debug/net10.0/TypeDemo.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/TypeDemo/obj/Debug/net10.0/TypeDemo.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/TypeDemo/obj/Debug/net10.0/TypeDemo.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/TypeDemo/obj/Debug/net10.0/TypeDemo.sourcelink.json
+/workspaces/Dotnet_Azure/TypeDemo/obj/Debug/net10.0/TypeDemo.dll
+/workspaces/Dotnet_Azure/TypeDemo/obj/Debug/net10.0/refint/TypeDemo.dll
+/workspaces/Dotnet_Azure/TypeDemo/obj/Debug/net10.0/TypeDemo.pdb
+/workspaces/Dotnet_Azure/TypeDemo/obj/Debug/net10.0/TypeDemo.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/TypeDemo/obj/Debug/net10.0/ref/TypeDemo.dll

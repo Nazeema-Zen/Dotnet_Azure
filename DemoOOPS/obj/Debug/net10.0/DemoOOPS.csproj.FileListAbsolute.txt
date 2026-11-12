@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/DemoOOPS/obj/Debug/net10.0/DemoOOPS.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/DemoOOPS/obj/Debug/net10.0/DemoOOPS.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/DemoOOPS/obj/Debug/net10.0/DemoOOPS.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/DemoOOPS/obj/Debug/net10.0/DemoOOPS.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/DemoOOPS/obj/Debug/net10.0/DemoOOPS.sourcelink.json
+/workspaces/Dotnet_Azure/DemoOOPS/bin/Debug/net10.0/DemoOOPS
+/workspaces/Dotnet_Azure/DemoOOPS/bin/Debug/net10.0/DemoOOPS.deps.json
+/workspaces/Dotnet_Azure/DemoOOPS/bin/Debug/net10.0/DemoOOPS.runtimeconfig.json
+/workspaces/Dotnet_Azure/DemoOOPS/bin/Debug/net10.0/DemoOOPS.dll
+/workspaces/Dotnet_Azure/DemoOOPS/bin/Debug/net10.0/DemoOOPS.pdb
+/workspaces/Dotnet_Azure/DemoOOPS/obj/Debug/net10.0/DemoOOPS.dll
+/workspaces/Dotnet_Azure/DemoOOPS/obj/Debug/net10.0/refint/DemoOOPS.dll
+/workspaces/Dotnet_Azure/DemoOOPS/obj/Debug/net10.0/DemoOOPS.pdb
+/workspaces/Dotnet_Azure/DemoOOPS/obj/Debug/net10.0/DemoOOPS.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/DemoOOPS/obj/Debug/net10.0/ref/DemoOOPS.dll

@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/EmployeDemo/bin/Debug/net10.0/EmployeDemo
+/workspaces/Dotnet_Azure/EmployeDemo/bin/Debug/net10.0/EmployeDemo.deps.json
+/workspaces/Dotnet_Azure/EmployeDemo/bin/Debug/net10.0/EmployeDemo.runtimeconfig.json
+/workspaces/Dotnet_Azure/EmployeDemo/bin/Debug/net10.0/EmployeDemo.dll
+/workspaces/Dotnet_Azure/EmployeDemo/bin/Debug/net10.0/EmployeDemo.pdb
+/workspaces/Dotnet_Azure/EmployeDemo/obj/Debug/net10.0/EmployeDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/EmployeDemo/obj/Debug/net10.0/EmployeDemo.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/EmployeDemo/obj/Debug/net10.0/EmployeDemo.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/EmployeDemo/obj/Debug/net10.0/EmployeDemo.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/EmployeDemo/obj/Debug/net10.0/EmployeDemo.sourcelink.json
+/workspaces/Dotnet_Azure/EmployeDemo/obj/Debug/net10.0/EmployeDemo.dll
+/workspaces/Dotnet_Azure/EmployeDemo/obj/Debug/net10.0/refint/EmployeDemo.dll
+/workspaces/Dotnet_Azure/EmployeDemo/obj/Debug/net10.0/EmployeDemo.pdb
+/workspaces/Dotnet_Azure/EmployeDemo/obj/Debug/net10.0/EmployeDemo.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/EmployeDemo/obj/Debug/net10.0/ref/EmployeDemo.dll

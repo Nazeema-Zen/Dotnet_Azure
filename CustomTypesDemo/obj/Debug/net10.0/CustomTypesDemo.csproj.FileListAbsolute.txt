@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/CustomTypesDemo/bin/Debug/net10.0/CustomTypesDemo
+/workspaces/Dotnet_Azure/CustomTypesDemo/bin/Debug/net10.0/CustomTypesDemo.deps.json
+/workspaces/Dotnet_Azure/CustomTypesDemo/bin/Debug/net10.0/CustomTypesDemo.runtimeconfig.json
+/workspaces/Dotnet_Azure/CustomTypesDemo/bin/Debug/net10.0/CustomTypesDemo.dll
+/workspaces/Dotnet_Azure/CustomTypesDemo/bin/Debug/net10.0/CustomTypesDemo.pdb
+/workspaces/Dotnet_Azure/CustomTypesDemo/obj/Debug/net10.0/CustomTypesDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/CustomTypesDemo/obj/Debug/net10.0/CustomTypesDemo.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/CustomTypesDemo/obj/Debug/net10.0/CustomTypesDemo.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/CustomTypesDemo/obj/Debug/net10.0/CustomTypesDemo.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/CustomTypesDemo/obj/Debug/net10.0/CustomTypesDemo.sourcelink.json
+/workspaces/Dotnet_Azure/CustomTypesDemo/obj/Debug/net10.0/CustomTypesDemo.dll
+/workspaces/Dotnet_Azure/CustomTypesDemo/obj/Debug/net10.0/refint/CustomTypesDemo.dll
+/workspaces/Dotnet_Azure/CustomTypesDemo/obj/Debug/net10.0/CustomTypesDemo.pdb
+/workspaces/Dotnet_Azure/CustomTypesDemo/obj/Debug/net10.0/CustomTypesDemo.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/CustomTypesDemo/obj/Debug/net10.0/ref/CustomTypesDemo.dll
