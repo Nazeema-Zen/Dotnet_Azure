@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/MethodHidingDemo/bin/Debug/net10.0/MethodHidingDemo
+/workspaces/Dotnet_Azure/MethodHidingDemo/bin/Debug/net10.0/MethodHidingDemo.deps.json
+/workspaces/Dotnet_Azure/MethodHidingDemo/bin/Debug/net10.0/MethodHidingDemo.runtimeconfig.json
+/workspaces/Dotnet_Azure/MethodHidingDemo/bin/Debug/net10.0/MethodHidingDemo.dll
+/workspaces/Dotnet_Azure/MethodHidingDemo/bin/Debug/net10.0/MethodHidingDemo.pdb
+/workspaces/Dotnet_Azure/MethodHidingDemo/obj/Debug/net10.0/MethodHidingDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/MethodHidingDemo/obj/Debug/net10.0/MethodHidingDemo.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/MethodHidingDemo/obj/Debug/net10.0/MethodHidingDemo.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/MethodHidingDemo/obj/Debug/net10.0/MethodHidingDemo.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/MethodHidingDemo/obj/Debug/net10.0/MethodHidingDemo.sourcelink.json
+/workspaces/Dotnet_Azure/MethodHidingDemo/obj/Debug/net10.0/MethodHidingDemo.dll
+/workspaces/Dotnet_Azure/MethodHidingDemo/obj/Debug/net10.0/refint/MethodHidingDemo.dll
+/workspaces/Dotnet_Azure/MethodHidingDemo/obj/Debug/net10.0/MethodHidingDemo.pdb
+/workspaces/Dotnet_Azure/MethodHidingDemo/obj/Debug/net10.0/MethodHidingDemo.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/MethodHidingDemo/obj/Debug/net10.0/ref/MethodHidingDemo.dll

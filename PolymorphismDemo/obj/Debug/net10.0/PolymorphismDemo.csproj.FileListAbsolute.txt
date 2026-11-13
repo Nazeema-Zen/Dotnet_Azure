@@ -1,0 +1,5 @@
+/workspaces/Dotnet_Azure/PolymorphismDemo/obj/Debug/net10.0/PolymorphismDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/PolymorphismDemo/obj/Debug/net10.0/PolymorphismDemo.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/PolymorphismDemo/obj/Debug/net10.0/PolymorphismDemo.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/PolymorphismDemo/obj/Debug/net10.0/PolymorphismDemo.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/PolymorphismDemo/obj/Debug/net10.0/PolymorphismDemo.sourcelink.json

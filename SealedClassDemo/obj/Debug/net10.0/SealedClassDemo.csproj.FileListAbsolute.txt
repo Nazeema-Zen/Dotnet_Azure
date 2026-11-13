@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/SealedClassDemo/bin/Debug/net10.0/SealedClassDemo
+/workspaces/Dotnet_Azure/SealedClassDemo/bin/Debug/net10.0/SealedClassDemo.deps.json
+/workspaces/Dotnet_Azure/SealedClassDemo/bin/Debug/net10.0/SealedClassDemo.runtimeconfig.json
+/workspaces/Dotnet_Azure/SealedClassDemo/bin/Debug/net10.0/SealedClassDemo.dll
+/workspaces/Dotnet_Azure/SealedClassDemo/bin/Debug/net10.0/SealedClassDemo.pdb
+/workspaces/Dotnet_Azure/SealedClassDemo/obj/Debug/net10.0/SealedClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/SealedClassDemo/obj/Debug/net10.0/SealedClassDemo.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/SealedClassDemo/obj/Debug/net10.0/SealedClassDemo.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/SealedClassDemo/obj/Debug/net10.0/SealedClassDemo.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/SealedClassDemo/obj/Debug/net10.0/SealedClassDemo.sourcelink.json
+/workspaces/Dotnet_Azure/SealedClassDemo/obj/Debug/net10.0/SealedClassDemo.dll
+/workspaces/Dotnet_Azure/SealedClassDemo/obj/Debug/net10.0/refint/SealedClassDemo.dll
+/workspaces/Dotnet_Azure/SealedClassDemo/obj/Debug/net10.0/SealedClassDemo.pdb
+/workspaces/Dotnet_Azure/SealedClassDemo/obj/Debug/net10.0/SealedClassDemo.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/SealedClassDemo/obj/Debug/net10.0/ref/SealedClassDemo.dll

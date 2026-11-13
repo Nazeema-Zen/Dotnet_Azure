@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/AccessControlDemo/bin/Debug/net10.0/AccessControlDemo
+/workspaces/Dotnet_Azure/AccessControlDemo/bin/Debug/net10.0/AccessControlDemo.deps.json
+/workspaces/Dotnet_Azure/AccessControlDemo/bin/Debug/net10.0/AccessControlDemo.runtimeconfig.json
+/workspaces/Dotnet_Azure/AccessControlDemo/bin/Debug/net10.0/AccessControlDemo.dll
+/workspaces/Dotnet_Azure/AccessControlDemo/bin/Debug/net10.0/AccessControlDemo.pdb
+/workspaces/Dotnet_Azure/AccessControlDemo/obj/Debug/net10.0/AccessControlDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/AccessControlDemo/obj/Debug/net10.0/AccessControlDemo.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/AccessControlDemo/obj/Debug/net10.0/AccessControlDemo.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/AccessControlDemo/obj/Debug/net10.0/AccessControlDemo.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/AccessControlDemo/obj/Debug/net10.0/AccessControlDemo.sourcelink.json
+/workspaces/Dotnet_Azure/AccessControlDemo/obj/Debug/net10.0/AccessControlDemo.dll
+/workspaces/Dotnet_Azure/AccessControlDemo/obj/Debug/net10.0/refint/AccessControlDemo.dll
+/workspaces/Dotnet_Azure/AccessControlDemo/obj/Debug/net10.0/AccessControlDemo.pdb
+/workspaces/Dotnet_Azure/AccessControlDemo/obj/Debug/net10.0/AccessControlDemo.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/AccessControlDemo/obj/Debug/net10.0/ref/AccessControlDemo.dll

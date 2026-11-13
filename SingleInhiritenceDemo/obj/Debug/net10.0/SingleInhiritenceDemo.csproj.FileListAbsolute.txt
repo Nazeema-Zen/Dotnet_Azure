@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/SingleInhiritenceDemo/bin/Debug/net10.0/SingleInhiritenceDemo
+/workspaces/Dotnet_Azure/SingleInhiritenceDemo/bin/Debug/net10.0/SingleInhiritenceDemo.deps.json
+/workspaces/Dotnet_Azure/SingleInhiritenceDemo/bin/Debug/net10.0/SingleInhiritenceDemo.runtimeconfig.json
+/workspaces/Dotnet_Azure/SingleInhiritenceDemo/bin/Debug/net10.0/SingleInhiritenceDemo.dll
+/workspaces/Dotnet_Azure/SingleInhiritenceDemo/bin/Debug/net10.0/SingleInhiritenceDemo.pdb
+/workspaces/Dotnet_Azure/SingleInhiritenceDemo/obj/Debug/net10.0/SingleInhiritenceDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/SingleInhiritenceDemo/obj/Debug/net10.0/SingleInhiritenceDemo.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/SingleInhiritenceDemo/obj/Debug/net10.0/SingleInhiritenceDemo.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/SingleInhiritenceDemo/obj/Debug/net10.0/SingleInhiritenceDemo.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/SingleInhiritenceDemo/obj/Debug/net10.0/SingleInhiritenceDemo.sourcelink.json
+/workspaces/Dotnet_Azure/SingleInhiritenceDemo/obj/Debug/net10.0/SingleInhiritenceDemo.dll
+/workspaces/Dotnet_Azure/SingleInhiritenceDemo/obj/Debug/net10.0/refint/SingleInhiritenceDemo.dll
+/workspaces/Dotnet_Azure/SingleInhiritenceDemo/obj/Debug/net10.0/SingleInhiritenceDemo.pdb
+/workspaces/Dotnet_Azure/SingleInhiritenceDemo/obj/Debug/net10.0/SingleInhiritenceDemo.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/SingleInhiritenceDemo/obj/Debug/net10.0/ref/SingleInhiritenceDemo.dll

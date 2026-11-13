@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/VirtualMethodDemo/bin/Debug/net10.0/VirtualMethodDemo
+/workspaces/Dotnet_Azure/VirtualMethodDemo/bin/Debug/net10.0/VirtualMethodDemo.deps.json
+/workspaces/Dotnet_Azure/VirtualMethodDemo/bin/Debug/net10.0/VirtualMethodDemo.runtimeconfig.json
+/workspaces/Dotnet_Azure/VirtualMethodDemo/bin/Debug/net10.0/VirtualMethodDemo.dll
+/workspaces/Dotnet_Azure/VirtualMethodDemo/bin/Debug/net10.0/VirtualMethodDemo.pdb
+/workspaces/Dotnet_Azure/VirtualMethodDemo/obj/Debug/net10.0/VirtualMethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/VirtualMethodDemo/obj/Debug/net10.0/VirtualMethodDemo.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/VirtualMethodDemo/obj/Debug/net10.0/VirtualMethodDemo.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/VirtualMethodDemo/obj/Debug/net10.0/VirtualMethodDemo.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/VirtualMethodDemo/obj/Debug/net10.0/VirtualMethodDemo.sourcelink.json
+/workspaces/Dotnet_Azure/VirtualMethodDemo/obj/Debug/net10.0/VirtualMethodDemo.dll
+/workspaces/Dotnet_Azure/VirtualMethodDemo/obj/Debug/net10.0/refint/VirtualMethodDemo.dll
+/workspaces/Dotnet_Azure/VirtualMethodDemo/obj/Debug/net10.0/VirtualMethodDemo.pdb
+/workspaces/Dotnet_Azure/VirtualMethodDemo/obj/Debug/net10.0/VirtualMethodDemo.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/VirtualMethodDemo/obj/Debug/net10.0/ref/VirtualMethodDemo.dll
